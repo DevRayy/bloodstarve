@@ -1,6 +1,6 @@
 # py2json
 
-Simple app that converts python ``__str()__`` serialized dicts into proper json.
+Simple app that converts python ``__str__()`` serialized dicts into proper json.
 
 ## Install
 ```shell
