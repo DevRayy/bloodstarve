@@ -1,4 +1,4 @@
-# bloodstarve
+# py2json
 
 Simple app that converts python ``__str()__`` serialized dicts into proper json.
 
